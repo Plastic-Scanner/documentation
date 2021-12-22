@@ -1,12 +1,12 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
+  
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Plastic Scanner documentation',
   tagline: 'Plastic Scanner documentation',
   url: 'https://Plastic-Scanner.github.io',
   baseUrl: '/documentation/',
