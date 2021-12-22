@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Plastic Scanner documentation',
-  tagline: 'Plastic Scanner documentation',
+  tagline: 'Documentation for the Plastic Scanner development',
   url: 'https://Plastic-Scanner.github.io',
   baseUrl: '/documentation/',
   onBrokenLinks: 'throw',
