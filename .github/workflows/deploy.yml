@@ -3,7 +3,9 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
-    paths: [my-website/**]
+    paths:
+      - '.github/workflows/deploy.yml'
+      - 'website/**'
 
 jobs:
   deploy:
@@ -15,12 +17,21 @@ jobs:
         with:
           node-version: 14.x
           cache: yarn
-      - name: Build website
-        working-directory: my-website
-        run: |
-          yarn install --frozen-lockfile
-          yarn build
+#       - name: Build website
+#         working-directory: my-website
+#         run: |
+#           yarn install --frozen-lockfile
+#           yarn build
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ${{ steps.yarn-cache.outputs.dir }}
+          key: ${{ runner.os }}-website-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-website-
 
+      - run: yarn install --frozen-lockfile
+      - run: yarn build
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
       - name: Deploy to GitHub Pages
