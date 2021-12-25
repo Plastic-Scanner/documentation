@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'What is the Plastic Scanner',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The Plastic Scanner is a device which can identify the most common plastics.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'How to help out',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This site is made to give you information, if you want to help out, check the issues on the github repo.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Making the world a bit better',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        The goal of the plastic scanner is to make the world a tiny bit better!
       </>
     ),
   },
