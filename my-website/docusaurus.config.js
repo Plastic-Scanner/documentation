@@ -24,12 +24,9 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/Plastic-Scanner',
+          routeBasePath: '/',           // Serve the docs at the site's root
         },
-        blog: {
-          showReadingTime: true,
-          editUrl:
-            'https://github.com/Plastic-Scanner',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -49,7 +46,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'introduction/infrared',
+            docId: 'introduction',
             label: 'Get started',
             position: 'left',
           },
@@ -69,7 +66,7 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/intro',
+                to: '/docs/introduction',
               },
             ],
           },
