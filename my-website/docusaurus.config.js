@@ -23,8 +23,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/Plastic-Scanner',
+          sidebarCollapsed: false,
           routeBasePath: '/',           // Serve the docs at the site's root
+          editUrl: 'https://github.com/Plastic-Scanner',
         },
         blog: false,
         theme: {
