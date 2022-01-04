@@ -9,12 +9,12 @@ const config = {
   title: 'Plastic Scanner documentation',
   tagline: 'Making it simple to work on the plastic scanner',
   url: 'https://Plastic-Scanner.github.io',
-  baseUrl: '/documentation/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'Plastic-Scanner', // Usually your GitHub org/user name.
-  projectName: 'documentation', // Usually your repo name.
+  favicon: '/img/favicon.ico',
+  organizationName: 'Plastic-Scanner',  // Usually your GitHub org/user name.
+  projectName: 'documentation',         // Usually your repo name.
 
   presets: [
     [
@@ -23,12 +23,10 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl: 'https://github.com/Plastic-Scanner',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
             'https://github.com/Plastic-Scanner',
         },
@@ -46,16 +44,16 @@ const config = {
         title: 'Plastic Scanner',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: '/img/docusaurus.png',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
-            position: 'left',
+            docId: 'introduction/infrared',
             label: 'Get started',
+            position: 'left',
           },
-          //{to: '/blog', label: 'Blog', position: 'left'},
+
           {
             href: 'https://github.com/Plastic-Scanner',
             label: 'GitHub',
