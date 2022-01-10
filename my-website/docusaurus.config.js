@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
   
 const lightCodeTheme = require('prism-react-renderer/themes/github');
@@ -45,13 +45,6 @@ const config = {
           src: '/img/docusaurus.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'introduction',
-            label: 'Get started',
-            position: 'left',
-          },
-
           {
             href: 'https://github.com/Plastic-Scanner',
             label: 'GitHub',
