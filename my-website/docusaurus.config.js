@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Plastic Scanner documentation',
   tagline: 'Making it simple to work on the plastic scanner',
-  url: 'https://Plastic-Scanner.github.io',
+  url: 'https://docs.plasticscanner.com',
   baseUrl: '/documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
