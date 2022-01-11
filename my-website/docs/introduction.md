@@ -7,12 +7,21 @@ slug: /
 
 ## Introduction
 
-Welcome to the Plastic Scanner - a device for identifying different types of plastic for low-cost sorting and recycling of plastic waste. 
-> TODO: how to forumlate in 1-2 sentences - a device which can identify which type of plastic is the scanned object from. E.g. you scan a shampoo bottle and it tells you which plastic type it is, e.g. PP.
+Welcome to the Plastic Scanner - a device for identifying different types of plastic.
+Separating and sorting of waste plastics is crucial, since mixing different kinds of plastic resins ruins the recycling process. While there are different
+approaches to this problem, our aim is to develop a low-cost handheld scanner which can be used everywhere also in non-industrial informalwaste plants in LMIC countries? sth like that.
 
-INSERT A FANCY BANNER IMAGE OF THE SCANNER
+OR
 
-This is a technical documentation about the scanner itself, while the website [plasticscanner.com](https://plasticscanner.com) contains more general information about the project and its history, scope and future plans.
+Welcome to the Plastic Scanner - a handheld scanner, which can identify five most common type of plastics.
+Recycling the plastic is good, but mixing different kinds of plastic during that process is bad. The plastic scanner aims to make this process easier, more affordable and available in every part of the world.
 
-The project is open source which means all the schematics and source code are publicly available and you are welcome to contribute, study and modify it! Read more about this on CONTRIBUTING page. Together we can fight plastic better!
+OR
 
+Welcome to the Plastic Scanner! 
+This project aims to develop a plastic scanner which can be used for sorting waste plastics by identifying the most common plastic resin types. While there
+are existing solutions they are mostly bulky, expensive and inaccesible to informal plastic recyclers in low-income countries - and we're trying to address that.
+
+IMAGE OF THE SCANNER
+
+This is a technical documentation about the scanner, while there is more information about the project on our website [plasticscanner.com](https://plasticscanner.com). The project is open source which means that all the schematics and source code are publicly available and that you are invited to study, modify and contribute to it!
