@@ -9,7 +9,7 @@ const config = {
   title: 'Plastic Scanner documentation',
   tagline: 'Making it simple to work on the plastic scanner',
   url: 'https://Plastic-Scanner.github.io',
-  baseUrl: '/',
+  baseUrl: '/documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
