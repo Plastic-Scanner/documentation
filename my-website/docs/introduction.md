@@ -1,11 +1,17 @@
 ---
 title: Introduction
-hide_title: true
+# hide_title: true
 hide_table_of_contents: true
 slug: /
 ---
 
-## Introduction
+Welcome to the Plastic Scanner - a handheld device, which can identify five most common type of plastics.
+It is used for sorting plastic waste based on their material (plastic polymer type/family), which is a crucial step in recycling and solving the plastic pollution problem.
+
+<!-- since mixing different plastic polymers prevents recycling successfuly.
+plastic waste recycling, where it is crucial to separate different kind of plastic polymers plastic waste according to their plastic polymer type, which is a crucial step in plastic recycling. -->
+
+OR
 
 Welcome to the Plastic Scanner - a device for identifying different types of plastic.
 Separating and sorting of waste plastics is crucial, since mixing different kinds of plastic resins ruins the recycling process. While there are different
