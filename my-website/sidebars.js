@@ -5,7 +5,7 @@ const sidebars = {
     docsSidebar: [
         'introduction',
         'how_it_works',
-        'theory',
+        // 'theory',
         {
             label: 'Development board',
             type: 'category',
