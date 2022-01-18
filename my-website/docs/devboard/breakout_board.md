@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 
 ---
-# DB_2.0
+# Breakout board
 introduction, why this board was made, and a general summary if it does what we want it to be.
 
 ## PCB overview
