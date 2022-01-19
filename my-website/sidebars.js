@@ -7,7 +7,7 @@ const sidebars = {
         'how_it_works',
         // 'theory',
         {
-            label: 'Development board',
+            label: 'Development boards',
             type: 'category',
             collapsed: true,
             items: [

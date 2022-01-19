@@ -42,7 +42,7 @@ const config = {
         title: 'Plastic Scanner',
         logo: {
           alt: 'My Site Logo',
-          src: '/img/docusaurus.png',
+          src: '/img/logo1.svg',
         },
         items: [
           {
@@ -83,7 +83,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Plastic Scanner Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Plastic Scanner Project. Built with ♥ and with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
