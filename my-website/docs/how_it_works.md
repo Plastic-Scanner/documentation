@@ -12,7 +12,7 @@ The plastic scanner allows you to scan an object (like a shampoo bottle) and ide
 <div style={{textAlign: 'center'}}>
 
   ![usage concept](/img/concept_diagram.png)
-  ![plastic scanner explaination](/img/plasticscannerexplain.gif)
+  ![plastic scanner explaination](/img/PlasticScannerExplain.gif)
 </div>
 
 ## Discrete NIR spectroscopy
