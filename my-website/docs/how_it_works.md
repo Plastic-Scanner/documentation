@@ -11,7 +11,7 @@ The plastic scanner allows you to scan an object (like a shampoo bottle) and ide
 <!-- WARNING: there's an inconsistency between description and image of which resins can we identify. HDPE/LDPE? -->
 <div style={{textAlign: 'center'}}>
 
-  ![usage concept](/img/concept_diagram.png)
+  <!-- ![usage concept](/img/concept_diagram.png) -->
   ![plastic scanner explaination](/img/plasticscannerexplain.gif)
 </div>
 
