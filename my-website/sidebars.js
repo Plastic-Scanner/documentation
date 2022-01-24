@@ -19,7 +19,6 @@ const sidebars = {
         //     ]
         // }
         'contribution',
-        'troubleshooting',
         'glossary',
         'faq',
 
