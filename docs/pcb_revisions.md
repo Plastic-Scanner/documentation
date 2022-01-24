@@ -1,16 +1,15 @@
 ---
-title: PCB's
+title: PCB revision history
 ---
 
-## Revision history
-
-This page is made to show which previous versions have been made. It gives you an idea where we came from, what we changed and what worked and what didn't. this is listed from new to old.  
+This page is made to show which previous versions have been made. It gives you an idea where we came from, what we changed and what worked and what didn't. 
+Entries are listed from new to old.  
 
 ## Development board 2.0 (DB2.0)
 
 <img src="/img/developmentboards/developmentboard2.0.jpg" alt="development board 2.0" width="200"/>
 
-Propper version of the breakout board, with Arduino!
+Proper version of the breakout board, with Arduino!
 
 | Item | Description|
 | ----------- | ----------- |
