@@ -42,7 +42,7 @@ const config = {
         title: 'Plastic Scanner',
         logo: {
           alt: 'My Site Logo',
-          src: '/img/logo1.svg',
+          src: '/img/logo.svg',
         },
         items: [
           {
