@@ -31,7 +31,6 @@ By shining light onto a surface, some of it will be absorbed and some of it will
     <img alt="Electromagnetic (EM) spectrum" src="/img/em_spectrum_nir.svg" width="800px"/>
 </div>
 
-
 **Discrete** spectroscopy means we only measure reflectance at cetrain wavelengths, unlike in continuous spectroscopy where the complete spectrum is measured across all frequencies without having a gap between values (e.g. splitting light into a "rainbow" with a prism). 
 
 ## Technology
@@ -47,4 +46,4 @@ Each family of plastic resins has a typical reflectance spectrum, shown below, w
 Industrial devices that can measure a sample's continuous spectrum are expensive and hard to produce at home. In our case, we only measure the reflectance at 8 specific points (this is where the "discrete" part comes from) and observe the ratios betwen them.
 
 [^1]: https://en.wikipedia.org/wiki/Spectroscopy 
-[^2]: Wavelengths of near-infrared LEDs: 855nm, 940nm, 1050nm, 1200nm, 1300nm, 1450nm, 1550nm, 1650nm
+[^2]: Wavelengths of near-infrared LEDs in nanometers: 855, 940, 1050, 1200, 1300, 1450, 1550, 1650
