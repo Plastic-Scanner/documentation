@@ -25,12 +25,10 @@ By shining light onto a surface, some of it will be absorbed and some of it will
 <!-- SIMPLIFY THIS or give a more NIR related example? -->
 <!-- To give an example: if you shine white light(mixed electromagnetic spectrum) on a bottlecap, most of the white light gets absorbed, but some of the light gets reflected in your eye. Depending on which wavelength gets the reflected the rods and cones in your eye are sensitive to this, giving you the information that the bottlecap is red. -->
 
-**NIR** stands for Near InfraRed. Visible light is only a small part of the electromagnetic spectrum, beyond red there is infrared it contains the electromagnetic (EM) wavelengths between 780 nm to 2500 nm, it is not visible to the eye, but it is definitly there!
+**NIR** stands for Near InfraRed. Visible light is only a small part of the electromagnetic spectrum, beyond red there is infrared it contains the electromagnetic (EM) wavelengths between 780 nm to 2500 nm, it is not visible to the eye, but it is definitely there!
 
-<!-- TODO: mark the NIR region -->
-<!-- ![Electromagnetic (EM) spectrum](/img/EM_spectrum_drawing.png) -->
 <div style={{textAlign: 'center'}}>
-    <img alt="Electromagnetic (EM) spectrum" src="/img/EM_spectrum_drawing.png" width="400px"/>
+    <img alt="Electromagnetic (EM) spectrum" src="/img/em_spectrum_nir.svg" width="800px"/>
 </div>
 
 
