@@ -40,7 +40,7 @@ The approach mentioned above is implemented on a custom PCB which, at its core, 
 Each family of plastic resins has a typical reflectance spectrum, shown below, which is used for comparison and identification of the measured plastic sample.
 
 <div style={{textAlign: 'center'}}>
-    <img alt="Typical reflectance spectra of different plastic polymers" src="/img/typical_reflectance_spectras.png" width="400px"/>
+    <img alt="Typical reflectance spectra of different plastic polymers" src="/img/response_curve.svg" width="600px"/>
 </div>
 
 Industrial devices that can measure a sample's continuous spectrum are expensive and hard to produce at home. In our case, we only measure the reflectance at 8 specific points (this is where the "discrete" part comes from) and observe the ratios betwen them.
