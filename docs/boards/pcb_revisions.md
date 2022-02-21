@@ -1,5 +1,5 @@
 ---
-title: PCB revision history
+title: Introduction
 ---
 
 This page is made to show which previous versions have been made. It gives you an idea where we came from, what we changed and what worked and what didn't. 
