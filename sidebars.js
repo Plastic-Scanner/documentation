@@ -9,10 +9,24 @@ const sidebars = {
             type: 'category',
             label: 'PCB revisions',
             collapsible: true,
-            collapsed: false,
+            collapsed: true,
             items: [
                 'boards/pcb_revisions',
                 'boards/DB2.0',
+            ]
+        },
+        {
+            type: 'category',
+            label: 'Building',
+            collapsible: true,
+            collapsed: true,
+            items: [
+                'build/before-you-begin',
+                'build/electrical-assembly',
+                'build/mechanical-assembly',
+                'build/software',
+                'build/troubleshooting',
+                'build/usage',
             ]
         },
         'contribution',
