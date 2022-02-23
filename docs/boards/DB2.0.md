@@ -15,6 +15,7 @@ This board is not optimised for size or functionality, but for easy of use for d
 ## Documentation
 
 ### Useful links
+
 [PCB Schematic](https://github.com/Plastic-Scanner/DB2.0-Hardware/blob/main/PCB/PCB%20Schematics.pdf)  
 [PCB Pinout](https://github.com/Plastic-Scanner/DB2.0-Hardware/blob/main/PCB/PCB%20Pinout.pdf)  
 [PCB BOM](https://github.com/Plastic-Scanner/DB2.0-Hardware/blob/main/PCB/PCB%20BOM.pdf)  
@@ -56,3 +57,9 @@ Run the selftest firmware with
    1. Expected measurements: 
 3. a plastic red coca cola bottle cap
    1. Expected measurements: 
+
+
+<div>
+<object data="https://s2.q4cdn.com/175719177/files/doc_presentations/Placeholder-PDF.pdf" type="application/pdf" width="100%" height="700px">
+</object>
+</div>
