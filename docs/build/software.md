@@ -1,6 +1,2 @@
----
-sidebar_position: 4
-
----
-
 # Software
+This is your place to shine Jure!
