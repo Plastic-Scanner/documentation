@@ -1,13 +1,12 @@
 ---
 title: How it works
-hide_table_of_contents: false
+hide_table_of_contents: true
 ---
 
 
 # How it works
 
-The plastic scanner allows you to scan an object (like a shampoo bottle) and identify its plastic type using an approach called **discrete near-infrared (NIR) spectroscopy**. Sounds like scientific gibberish? It basically means flashing some kind of light on a plastic sample, measuring its reflection and doing some magic with it. The point is, it allows distinguishing between the five most common plastic resins: PET, HDPE, PE, PVC, PP and PS in an affordable, pocket-size manner.
-<!-- WARNING: there's an inconsistency between description and image of which resins can we identify. HDPE/LDPE? -->
+The plastic scanner allows you to scan an object (like a shampoo bottle) and identify its plastic type using an approach called **discrete near-infrared (NIR) spectroscopy**. Huh? It basically means flashing some kind of light on a plastic sample, measuring its reflection and doing some magic with it. The point is, it allows distinguishing between the five most common plastic resins: PET, HDPE, PE, PVC, PP and PS in an affordable, pocket-size manner.
 
 <div style={{textAlign: 'center'}}>
 
@@ -19,13 +18,12 @@ The plastic scanner allows you to scan an object (like a shampoo bottle) and ide
 
 Let us try to explain this technology and break it down word-by-word:
 
-**Spectroscopy** is the study of the interaction between matter (e.g. plastic sample) and electromagnetic radiation (e.g. near-infrared light) at different wavelengths[^1].
-By shining light onto a surface, some of it will be absorbed and some of it will be reflected and this ratio depends on material's structure and light's wavelength. Measuring the *reflectance* at various wavelengths gives a *reflectance spectrum* which provides all sorts of useful information about the measured object and that is, brutally simplified, the essence of spectroscopy.
+**Spectroscopy** is the study of the interaction between matter (e.g. a plastic sample) and electromagnetic radiation (e.g. near-infrared light) at different wavelengths[^1].
+By shining light onto a surface, some of it will be absorbed and some of it will be reflected and this ratio depends on material's structure and light's wavelength. Measuring the *reflectance* at various wavelengths gives a *reflectance spectrum* which provides all sorts of useful information about the measured object.
 
-<!-- SIMPLIFY THIS or give a more NIR related example? -->
-<!-- To give an example: if you shine white light(mixed electromagnetic spectrum) on a bottlecap, most of the white light gets absorbed, but some of the light gets reflected in your eye. Depending on which wavelength gets the reflected the rods and cones in your eye are sensitive to this, giving you the information that the bottlecap is red. -->
-
-**NIR** stands for Near InfraRed. Visible light is only a small part of the electromagnetic spectrum, beyond red there is infrared it contains the electromagnetic (EM) wavelengths between 780 nm to 2500 nm, it is not visible to the eye, but it is definitely there!
+**NIR** stands for Near InfraRed. Visible light is only a small part of the electromagnetic (EM) spectrum and next to it lies the infrared (IR) part. 
+It is not visible to the human eye, but it is used in many applications such as tv remotes, night vision cameras and surprise, surprise - spectroscopy.
+Only a small part of this infrared spectrum is used for plastic identification, called near-infrared and it contains wavelengths between 700nm and 2500nm.
 
 <div style={{textAlign: 'center'}}>
     <img alt="Electromagnetic (EM) spectrum" src="/img/em_spectrum_nir.svg" width="800px"/>

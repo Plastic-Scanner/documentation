@@ -1,9 +1,9 @@
 ---
-title: Introduction
+title: PCB revision history
 ---
 
-This page is made to show which previous versions have been made. It gives you an idea where we came from, what we changed and what worked and what didn't. 
-Entries are listed from new to old.  
+Here is an overview of all our prototypes, PCB revisions and information about them. It gives you an idea where we came from, what we changed and what worked and what didn't. 
+Entries are listed from new to old.
 
 ## Development board 2.0 (DB2.0)
 
@@ -16,7 +16,7 @@ Proper version of the breakout board, with Arduino!
 | 🌈 Codename     | Beige |
 | 📆 Release date| June 2019 |
 | 🦄 People                  | Jure Vidmar and Jerry de Vos       |
-| 🔗 Documentation   | Can be found [here](https://wikifactory.com/+plasticidentificationanywhere/plastic-scanner-devboard)        |
+| 🔗 Documentation   | Can be found [here](DB2.0.md) + on [wikifactory](https://wikifactory.com/+plasticidentificationanywhere/plastic-scanner-devboard)        |
 | ⌚ Development time  |  3 months |
 | 🎉 The Good  | - Good debugging, like the logic analyzer actually plugs directly in <br></br>- Proper schematics |
 | 👹 The Bad  | - Marking on the PCB can be better |
