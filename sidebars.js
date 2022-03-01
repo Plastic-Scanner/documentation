@@ -5,19 +5,8 @@ const sidebars = {
     docsSidebar: [
         'introduction',
         'how_it_works',
-        {
-            type: 'category',
-            label: 'PCB revisions',
-            collapsible: true,
-            collapsed: false,
-            items: [
-                'boards/pcb_revisions',
-                'boards/DB2.0',
-            ]
-        },
-        'contribution',
-        'glossary',
-        'faq',
+        'pcb_revisions',
+        'DB2.0'
     ]
 
 };
