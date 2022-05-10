@@ -19,8 +19,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   trailingSlash: false,
   favicon: '/img/favicon.ico',
-  organizationName: 'Plastic-Scanner',  // Usually your GitHub org/user name.
-  projectName: 'documentation-next',         // Usually your repo name.
+  organizationName: 'Plastic-Scanner',              // Usually your GitHub org/user name.
+  projectName: 'documentation-production',         // Usually your repo name.
 
   presets: [
     [
