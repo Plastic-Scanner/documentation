@@ -1,3 +1,8 @@
+/*
+    Docusaurus configuration for docs (production version)
+    docs.plasticscanner.com
+*/
+
 // @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
   

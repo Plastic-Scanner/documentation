@@ -6,7 +6,7 @@ on:
 
 jobs:
   production-deploy:
-    if: github.repository == 'Plastic-Scanner/documentation'
+    if: github.repository == 'Plastic-Scanner/documentation-production'
     name: Deploy to GitHub Pages (PRODUCTION)
     runs-on: ubuntu-latest
     steps:
@@ -35,7 +35,7 @@ jobs:
 
   
   staging-deploy:
-    if: github.repository == 'Plastic-Scanner/documentation-next'
+    if: github.repository == 'Plastic-Scanner/documentation'
     name: Deploy to GitHub Pages (STAGING)
     runs-on: ubuntu-latest
     steps:
