@@ -5,10 +5,20 @@ const sidebars = {
     docsSidebar: [
         'introduction',
         'how_it_works',
-        'pcb_revisions',
-        'DB2.0'
+        {
+            type: 'category',
+            label: 'Development Board 2.1',
+            link: {type: 'doc', id: 'boards/DB2.1'},
+            collapsible: false,
+            items: [
+                'boards/DB2.1_build',
+                'boards/DB2.x_firmware'
+            ]
+        },
+        'revision_history',
+        'contributing',
+        'glossary'
     ]
-
 };
 
 module.exports = sidebars;

@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Plastic Scanner documentation',
   tagline: 'Making it simple to work on the plastic scanner',
-  url: 'https://docs.plasticscanner.com',
+  url: 'https://nextdocs.plasticscanner.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
   organizationName: 'Plastic-Scanner',  // Usually your GitHub org/user name.
-  projectName: 'documentation',         // Usually your repo name.
+  projectName: 'documentation-next',         // Usually your repo name.
 
   presets: [
     [
