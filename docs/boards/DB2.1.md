@@ -35,7 +35,7 @@ This board is not optimised for size or functionality, but for easy of use for d
 ## Bill of Materials
 <div>
     <div>
-        <iframe width="100%" height="800px" src="http://htmlpreview.github.io/?https://github.com/Plastic-Scanner/DB2.x-Hardware/blob/181a10dfa44b1fb86fd0e2b79a7eaff53d0bc4b2/PCB/PCB%20interactive%20BOM.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="100%" height="800px" src="https://htmlpreview.github.io/?https://github.com/Plastic-Scanner/DB2.x-Hardware/blob/181a10dfa44b1fb86fd0e2b79a7eaff53d0bc4b2/PCB/PCB%20interactive%20BOM.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
