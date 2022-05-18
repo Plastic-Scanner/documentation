@@ -1,3 +1,7 @@
+---
+displayed_sidebar: docsSidebar
+---
+
 # Development Board 2.0
 
 The goal of this development board is to make it easy to test and debug different situations.

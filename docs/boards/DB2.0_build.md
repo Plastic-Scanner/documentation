@@ -1,3 +1,6 @@
+---
+displayed_sidebar: docsSidebar
+---
 # Build instructions
 
 ## Before you begin
