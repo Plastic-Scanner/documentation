@@ -82,5 +82,4 @@ Run the selftest firmware with
 ## PCB images
 <div style={{textAlign: 'center'}}>
     <img alt="Front View" src="https://github.com/Plastic-Scanner/DB2.x-Hardware/raw/6d1664db3ee18b0f2725af986c448b64545aa78f/Media/pcb_front_view.svg" width="50%"/>
-    <img alt="Back View" src="https://github.com/Plastic-Scanner/DB2.x-Hardware/raw/6d1664db3ee18b0f2725af986c448b64545aa78f/Media/pcb_front_view.svg" width="50%"/>
 </div>

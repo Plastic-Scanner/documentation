@@ -19,9 +19,11 @@ Well documented, easy to contribute PCB, ready for tests and improvements!
 | 🦄 People                  | Jure Vidmar and Jerry de Vos       |
 | 🔗 Source files   | Can be found [here](https://github.com/Plastic-Scanner/DB2.x-Hardware/releases/tag/V2.1)        |
 | ⌚ Development time  |  1 months |
-| 🎉 The Good  | - KiCad documentation <br></br>- Mounts for LED test <br></br>-  |
-| 👹 The Bad  | - ?|
+| 🎉 The Good  | - KiCad documentation <br></br>- Mounts for LED test <br></br>|
+| 👹 The Bad  | - Board requires a computer to work |
 
+[Schematics, pinout, Bill of Material, Technical drawing](boards/DB2.1.md)  
+[Build instructions](boards/DB2.1_build.md)    
 
 ## Development board 2.0 (DB2.0)
 
@@ -37,15 +39,11 @@ Proper version of the breakout board, with Arduino!
 | 🔗 Source files | Can be found [here](https://wikifactory.com/+plasticidentificationanywhere/plastic-scanner-devboard)        |
 | ⌚ Development time  |  3 months |
 | 🎉 The Good  | - Good debugging, like the logic analyzer actually plugs directly in <br></br>- Proper schematics |
-| 👹 The Bad  | - Marking on the PCB can be better |
+| 👹 The Bad  | - Marking on the PCB can be better <br></br>- Board required a computer to work |
 
-[Schematics](boards/DB2.0_build.md)  
-[Pinout](boards/DB2.0_build.md)  
-[Bill of Materials](boards/DB2.0_build.md)  
-[Technical drawing](boards/DB2.0_build.md)  
-[Packages](boards/DB2.0_build.md)  
-[PCB renders](boards/DB2.0_build.md)  
+[Schematics, pinout, Bill of Material, Technical drawing](boards/DB2.0.md)  
 [Build instructions](boards/DB2.0_build.md)  
+
 
 
 ## Breakout board
@@ -76,7 +74,7 @@ First printed circuit board with the sensor side the same as the ReReMeter, but 
 | 🌈 Codename     | Aqua |
 | 📆 Release date| April 2020 |
 | 🦄 People                  | Jerry de Vos       |
-| 🔗 Source files | Can be found [here](https://github.com/arminstr/reremeter)        |
+| 🔗 Source files | Can be found [here](https://oshwlab.com/jerzeek/nir-spectroscope)        |
 | ⌚ Development time  |  6 months |
 | 🎉 The Good  | - Separation between sensing and processing <br></br> - Bigger components, easier to solder <br></br> - Testpads for debugging <br></br> - Fool proof assembly <br></br> - Qwicc connector to easily add display|
 | 👹 The Bad  | - Missing button for interaction <br></br> - Bad schematics |
@@ -93,7 +91,7 @@ The Plastic Scanner project started out as a fork of the ReReMeter. The ReReMete
 | 🌈 Codename     | ReReMeter |
 | 📆 Release date| December 2019 |
 | 🦄 People                  | Armin straller and Bernhard Gessler       |
-| 🔗 Source files | Can be found [here](https://oshwlab.com/jerzeek/nir-spectroscope)        |
+| 🔗 Source files | Can be found [here](https://github.com/arminstr/reremeter)        |
 | ⌚ Development time  | 6 months |
 | 🎉 The Good  | - Board was small and compact <br></br>- Good enough to prove principle and write a paper about|
 | 👹 The Bad  | - Board was difficult to replicate due to the small 0402 components. <br></br>   - Board required a computer to work |
