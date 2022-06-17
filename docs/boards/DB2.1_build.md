@@ -69,7 +69,7 @@ We start by soldering the power components, once this area is complete we can me
 
 1. Solder C11, C12, C13, C14, C15, C16 in place
 2. Solder FB1, U3, U4, R20, R17 and D3 in place
-3. SOlder U3, U4 in place
+3. Solder U3, U4 in place
 
 <!-- your board should now look something like this: -->
 

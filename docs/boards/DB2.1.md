@@ -55,9 +55,9 @@ This board is not optimised for size or functionality, but for easy of use for d
 
 
 ## Packages
-Hardware package - click [here](https://github.com/Plastic-Scanner/DB2.x-Hardware/releases/tag/v2.0) to download all hardware documentation of this development board  
+Hardware package - click [here](https://github.com/Plastic-Scanner/DB2.x-Hardware) to download all hardware documentation of this development board  
 Firmware package - click [here](https://github.com/Plastic-Scanner/DB2.x-Firmware) to download all firmware (documentation) of this development board  
-Software package - click [here](https://github.com/Plastic-Scanner/software) to download all software (documentation) of this development board  
+Software package - click [here](https://github.com/Plastic-Scanner/spectraplot) to download all software (documentation) of this development board  
 
 ## PCB renders
 <div style={{textAlign: 'center'}}>
