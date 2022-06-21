@@ -25,7 +25,7 @@ This board is not optimised for size or functionality, but for easy of use for d
 ## Pinout
 <div>
     <div>
-        <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/Plastic-Scanner/DB2.x-Hardware/raw/df5eb378e63ef788a2f61706267ac1ccd03abba1/PCB/PCB%20Pinout.pdf" width="100%" height="600px"></embed>
+        <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/Plastic-Scanner/DB2.x-Hardware/raw/6d1664db3ee18b0f2725af986c448b64545aa78f/PCB/PCB%20Pinout.pdf" width="100%" height="600px"></embed>
     </div>
 </div>
 
