@@ -15,6 +15,7 @@ const sidebars = {
                 'boards/DB2.x_firmware'
             ]
         },
+        'notes',
         'revision_history',
         'contributing',
         'glossary'

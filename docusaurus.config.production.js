@@ -30,6 +30,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           sidebarCollapsed: false,
+          showLastUpdateTime: true,
           routeBasePath: '/',           // Serve the docs at the site's root
           editUrl: 'https://github.com/Plastic-Scanner',
         },
