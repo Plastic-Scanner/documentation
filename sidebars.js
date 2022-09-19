@@ -16,6 +16,7 @@ const sidebars = {
             ]
         },
         'notes',
+        'development_milestones',
         'revision_history',
         'contributing',
         'glossary'
