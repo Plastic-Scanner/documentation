@@ -32,7 +32,7 @@ const config = {
           sidebarCollapsed: false,
           showLastUpdateTime: true,
           routeBasePath: '/',           // Serve the docs at the site's root
-          editUrl: 'https://github.com/Plastic-Scanner',
+          editUrl: 'https://github.com/Plastic-Scanner/documentation/tree/main',
         },
         blog: false,
         theme: {
@@ -57,6 +57,14 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          // {
+          //   type: 'doc',
+          //   docId: 'introduction',
+          //   position: 'left',
+          //   label: 'For Developers',
+          // },
+          // {to: '/blog', label: 'For users', position: 'left'},
+          // {to: '/ir', label: 'About IR', position: 'left'},
         ],
       },
       footer: {
