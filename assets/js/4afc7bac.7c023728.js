@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[843],{8298:e=>{e.exports=JSON.parse('{"title":"Overview","description":"Learn about the most important Docusaurus concepts!","image":"/img/docusaurus.png","keywords":["guides"],"slug":"/overview","permalink":"/overview","navigation":{"next":{"title":"Introduction","permalink":"/"}}}')}}]);
