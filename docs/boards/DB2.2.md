@@ -1,6 +1,7 @@
 # Development Board 2.2
-
-Up to date source of the firmware can be found [here](https://github.com/Plastic-Scanner/DB2.x-hardware/)
+:::tip
+Up to date source of the hardware can be found [here](https://github.com/Plastic-Scanner/DB2.x-hardware/)
+:::
 
 The goal of this development board is to make it easy to test and debug different situations.
 This board is not optimised for size or functionality, but for easy of use for development.

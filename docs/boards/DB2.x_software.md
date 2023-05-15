@@ -3,7 +3,9 @@ title: Software usage
 ---
 # PSplot
 
+:::tip
 Up to date source of the firmware can be found [here](https://github.com/Plastic-Scanner/PSplot/)
+:::
 
 ## Preperation
 

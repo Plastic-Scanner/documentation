@@ -2,7 +2,7 @@
 title: Contribute
 ---
 
-# Contributions
+## Contributions
 Over time many people helped to make this project come alive, a never complete overview of contributers can be found here: [People](https://plasticscanner.com/about/)
 The results of their work can be found here: 
 
@@ -13,7 +13,7 @@ Jitter feedback
 Dylan feedback  
 
 
-# Contributing
+## Contributing
 
 The fact that you are reading this page already makese you cool 😎. Now it is time to get you all suited up for development. To make things easy we chose some specific platforms to enable collaberative working.
 

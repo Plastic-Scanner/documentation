@@ -1,7 +1,9 @@
 ---
 title: Firmware installation
 ---
+:::tip
 Up to date source of the firmware can be found [here](https://github.com/Plastic-Scanner/DB2.x-Firmware/)
+:::
 ## Requirements
 
 Firmware runs on DB2.x (tested on DB2.1), powered by Arduino.
