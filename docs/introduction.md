@@ -1,7 +1,7 @@
 ---
 title: Introduction
 hide_table_of_contents: true
-slug: /
+# slug: /
 ---
 
 Welcome to the Plastic Scanner - a handheld device, which can identify five most common types of plastics. 

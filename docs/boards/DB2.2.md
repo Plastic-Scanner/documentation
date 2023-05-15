@@ -1,4 +1,4 @@
-# Development Board 2.2
+# DB 2.2
 :::tip
 Up to date source of the hardware can be found [here](https://github.com/Plastic-Scanner/DB2.x-hardware/)
 :::

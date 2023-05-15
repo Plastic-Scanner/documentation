@@ -10,8 +10,8 @@ const sidebars = {
             link: {
               type: 'generated-index',
               title: 'Overview',
-              description: 'Learn about the most important Docusaurus concepts!',
-              slug: '/overview',
+              description: 'Learn all about the documentation of the Plastic Scanner!',
+              slug: '/',
               keywords: ['guides'],
               image: '/img/docusaurus.png',
             },
@@ -21,15 +21,38 @@ const sidebars = {
                 'how_it_works',
                 {
                     type: 'category',
-                    label: 'Development Board 2.2',
+                    label: 'Development Board',
                     link: {
-                        type: 'doc', 
-                        id: 'boards/DB2.2'},
+                        type: 'generated-index',
+                        title: 'Development Board 2.2', 
+                        description: 'Learn all about the development board!',
+                        slug: '/DB2.2_overview',
+                        // id: 'boards/DB2.2'
+                    },
                     collapsible: false,
                     items: [
+                        'boards/DB2.2',
                         'boards/DB2.2_build',
                         'boards/DB2.x_firmware',
                         'boards/DB2.x_software'
+                    ]
+                },
+                {
+                    type: 'category',
+                    label: 'Handheld scanner',
+                    link: {
+                        type: 'generated-index',
+                        title: 'Handheld scanner', 
+                        description: 'To be added in the future!',
+                        slug: '/HS_overview',
+                        // id: 'boards/DB2.2'
+                    },
+                    collapsible: false,
+                    items: [
+                         'boards/HS',
+                        // 'boards/HS_build',
+                        // 'boards/HS_firmware',
+                        // 'boards/HS_software'
                     ]
                 },
                 'revision_history',
