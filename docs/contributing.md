@@ -4,13 +4,13 @@ title: Contribute
 
 ## Contributions
 Over time many people helped to make this project come alive, a never complete overview of contributers can be found here: [People](https://plasticscanner.com/about/)
-The results of their work can be found here: 
+<!-- The results of their work can be found here: 
 
 Thesis Markus & Gustav  
 AED project  
 Queena thesis  
 Jitter feedback  
-Dylan feedback  
+Dylan feedback   -->
 
 
 ## Contributing

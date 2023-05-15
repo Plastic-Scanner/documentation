@@ -37,26 +37,26 @@ const sidebars = {
                         'boards/DB2.x_software'
                     ]
                 },
-                {
-                    type: 'category',
-                    label: 'Handheld scanner',
-                    link: {
-                        type: 'generated-index',
-                        title: 'Handheld scanner', 
-                        description: 'To be added in the future!',
-                        slug: '/HS_overview',
-                        // id: 'boards/DB2.2'
-                    },
-                    collapsible: false,
-                    items: [
-                         'boards/HS',
-                        // 'boards/HS_build',
-                        // 'boards/HS_firmware',
-                        // 'boards/HS_software'
-                    ]
-                },
+                // {
+                //     type: 'category',
+                //     label: 'Handheld scanner',
+                //     link: {
+                //         type: 'generated-index',
+                //         title: 'Handheld scanner', 
+                //         description: 'To be added in the future!',
+                //         slug: '/HS_overview',
+                //         // id: 'boards/DB2.2'
+                //     },
+                //     collapsible: false,
+                //     items: [
+                //          'boards/HS',
+                //         // 'boards/HS_build',
+                //         // 'boards/HS_firmware',
+                //         // 'boards/HS_software'
+                //     ]
+                // },
                 'revision_history',
-                'data',
+                // 'data',
                 'contributing'],
           },
         // 'how_it_works',
