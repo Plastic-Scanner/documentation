@@ -56,6 +56,7 @@ const sidebars = {
                     ]
                 },
                 'revision_history',
+                'research',
                 // 'data',
                 'contributing'],
           },
