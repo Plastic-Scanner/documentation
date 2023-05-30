@@ -1,3 +1,6 @@
+---
+displayed_sidebar: docsSidebar
+---
 # DB 2.2
 :::tip
 Up to date source of the hardware can be found [here](https://github.com/Plastic-Scanner/DB2.x-hardware/)

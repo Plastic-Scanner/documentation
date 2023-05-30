@@ -5,6 +5,25 @@ title: Revision history
 This page is made to show which previous versions have been made. It gives you an idea where we came from, what we changed and what worked and what didn't. 
 Entries are listed from new to old.  
 
+## Development board 2.3 (DB2.3)
+
+<img src="/img/developmentboards/developmentboard2.3.jpg" alt="development board 2.3" width="200"/>
+
+PCB with IC's that are actually in stock! 
+
+| Item | Description|
+| ----------- | ----------- |
+| 🌈 Codename     | Brass |
+| 📆 Release date| June 2023 |
+| 🦄 People                  | Jerry de Vos       |
+| 🔗 Source files   | Can be found [here](https://github.com/Plastic-Scanner/DB2.x-Hardware/releases/tag/v2.3)        |
+| ⌚ Development time  |  2 weeks |
+| 🎉 The Good  | - seperate sensor part <br></br>- Mounts for Daugther board <br></br>|
+| 👹 The Bad  | - Board requires a computer to work |
+
+[Schematics, pinout, Bill of Material, Technical drawing](boards/DB2.3.md)  
+[Build instructions](boards/DB2.3_build.md)    
+
 ## Development board 2.2 (DB2.2)
 
 <img src="/img/developmentboards/developmentboard2.2.jpg" alt="development board 2.2" width="200"/>
@@ -16,7 +35,7 @@ PCB with IC's that are actually in stock!
 | 🌈 Codename     | Brown |
 | 📆 Release date| May 2023 |
 | 🦄 People                  | Jerry de Vos       |
-| 🔗 Source files   | Can be found [here](https://github.com/Plastic-Scanner/DB2.x-Hardware/releases/tag/V2.2)        |
+| 🔗 Source files   | Can be found [here](https://github.com/Plastic-Scanner/DB2.x-Hardware/releases/tag/v2.2)        |
 | ⌚ Development time  |  1 months |
 | 🎉 The Good  | - New ADC <br></br>- Mounts for Daugther board <br></br>|
 | 👹 The Bad  | - Board requires a computer to work |

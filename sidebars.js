@@ -24,16 +24,16 @@ const sidebars = {
                     label: 'Development Board',
                     link: {
                         type: 'generated-index',
-                        title: 'Development Board 2.2', 
+                        title: 'Development Board 2.3', 
                         description: 'Learn all about the development board!',
-                        slug: '/DB2.2_overview',
+                        slug: '/DB2.3_overview',
                         // id: 'boards/DB2.2'
                     },
                     collapsed: false,
                     //collapsible: false,
                     items: [
-                        'boards/DB2.2',
-                        'boards/DB2.2_build',
+                        'boards/DB2.3',
+                        'boards/DB2.3_build',
                         'boards/DB2.x_firmware',
                         'boards/DB2.x_software'
                     ]
