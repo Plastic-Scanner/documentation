@@ -29,7 +29,8 @@ const sidebars = {
                         slug: '/DB2.2_overview',
                         // id: 'boards/DB2.2'
                     },
-                    collapsible: false,
+                    collapsed: false,
+                    //collapsible: false,
                     items: [
                         'boards/DB2.2',
                         'boards/DB2.2_build',
@@ -42,12 +43,13 @@ const sidebars = {
                     label: 'Handheld scanner',
                     link: {
                         type: 'generated-index',
-                        title: 'Handheld scanner', 
+                        title: 'Handheld Scanner', 
                         description: 'To be added in the future!',
                         slug: '/HS_overview',
                         // id: 'boards/DB2.2'
                     },
-                    collapsible: false,
+                    collapsed: true,
+                    //collapsible: false,
                     items: [
                          'boards/HS',
                         // 'boards/HS_build',
