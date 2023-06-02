@@ -52,7 +52,7 @@ Dylan had a look at the analog frontend of the development board 2.1. The setup 
 ## Thesis Queena - June 2023
 <img src="/img/research/thesis-queena.png" alt="" width="300"/>
 
-Original file: [link](/files/ScriptieC3.0_PlasticScanner_QRijke.pdf)  
+Original file: [link](/files/GraduationThesis_QRijke_PlasticScanner.pdf)  
 Queena worked on the Characterisation of the LEDs and InGaAs detector of the handheld plastic scanner as her applied physics thesis. She did a lot of measurements on the LEDs and the InGaAs detector of the development board 2.1., as well as made the comparisment to industry standard spectroscopes.
 
 ---
