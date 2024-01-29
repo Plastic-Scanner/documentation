@@ -51,7 +51,7 @@ jobs:
         run: npm ci
 
       - name: Copy staging config file
-        run: cp docusaurus.config.staging.js docusaurus.config.js
+        run: cp docusaurus.config.staging.ts docusaurus.config.ts
 
       - name: Change CNAME file
         run: echo nextdocs.plasticscanner.com > static/CNAME
