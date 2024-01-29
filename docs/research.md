@@ -56,6 +56,11 @@ Original file: [link](/files/GraduationThesis_QRijke_PlasticScanner.pdf)
 Queena worked on the Characterisation of the LEDs and InGaAs detector of the handheld plastic scanner as her applied physics thesis. She did a lot of measurements on the LEDs and the InGaAs detector of the development board 2.1., as well as made the comparisment to industry standard spectroscopes.
 
 ---
+## Thesis Kyle - December 2023
+
+To be added
+
+---
 ## Data analysis Hendrik - April 2023 (ongoing)
 Hendrik (dataworm on discord) is contantly looking for the best methods to analyse and interprete the measurements coming from the plastic scanner.
 

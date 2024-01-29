@@ -5,6 +5,25 @@ title: Revision history
 This page is made to show which previous versions have been made. It gives you an idea where we came from, what we changed and what worked and what didn't. 
 Entries are listed from new to old.  
 
+## Hand Scanner - Lasercut edition
+
+<img src="/img/handheldscanner/lasercut_main.jpg" alt="development board 2.3" width="200"/>
+
+First handheld lasercut version in development
+
+| Item | Description|
+| ----------- | ----------- |
+| 🌈 Codename     | Cyan |
+| 📆 Release date| February 2024 |
+| 🦄 People                  | Jerry de Vos       |
+| 🔗 Source files   | Can be found [here](https://github.com/Plastic-Scanner/DB2.x-Hardware/releases/tag/v2.3)        |
+| ⌚ Development time  |  6 months |
+| 🎉 The Good  | - All in one solution <br></br>|
+| 👹 The Bad  | - Based on "old" development board |
+
+[Schematics, pinout, Bill of Material, Technical drawing](boards/HS_laser)  
+[Build instructions](boards/HS_laser_build)    
+
 ## Development board 2.3 (DB2.3)
 
 <img src="/img/developmentboards/developmentboard2.3.jpg" alt="development board 2.3" width="200"/>
@@ -21,8 +40,8 @@ PCB with IC's that are actually in stock!
 | 🎉 The Good  | - seperate sensor part <br></br>- Mounts for Daugther board <br></br>|
 | 👹 The Bad  | - Board requires a computer to work |
 
-[Schematics, pinout, Bill of Material, Technical drawing](boards/DB2.3.md)  
-[Build instructions](boards/DB2.3_build.md)    
+[Schematics, pinout, Bill of Material, Technical drawing](boards/DB2.3)  
+[Build instructions](boards/DB2.3_build)    
 
 ## Development board 2.2 (DB2.2)
 
@@ -40,8 +59,8 @@ PCB with IC's that are actually in stock!
 | 🎉 The Good  | - New ADC <br></br>- Mounts for Daugther board <br></br>|
 | 👹 The Bad  | - Board requires a computer to work |
 
-[Schematics, pinout, Bill of Material, Technical drawing](boards/DB2.2.md)  
-[Build instructions](boards/DB2.2_build.md)    
+[Schematics, pinout, Bill of Material, Technical drawing](boards/DB2.2)  
+[Build instructions](boards/DB2.2_build)    
 
 ## Development board 2.1 (DB2.1)
 
@@ -59,8 +78,8 @@ Well documented, easy to contribute PCB, ready for tests and improvements!
 | 🎉 The Good  | - KiCad documentation <br></br>- Mounts for LED test <br></br>|
 | 👹 The Bad  | - Board requires a computer to work <br></br> - Components not available anymore|
 
-[Schematics, pinout, Bill of Material, Technical drawing](boards/DB2.1.md)  
-[Build instructions](boards/DB2.1_build.md)    
+[Schematics, pinout, Bill of Material, Technical drawing](boards/DB2.1)  
+[Build instructions](boards/DB2.1_build)    
 
 ## Development board 2.0 (DB2.0)
 
@@ -78,8 +97,8 @@ Proper version of the breakout board, with Arduino!
 | 🎉 The Good  | - Good debugging, like the logic analyzer actually plugs directly in <br></br>- Proper schematics |
 | 👹 The Bad  | - Marking on the PCB can be better <br></br>- Board required a computer to work |
 
-[Schematics, pinout, Bill of Material, Technical drawing](boards/DB2.0.md)  
-[Build instructions](boards/DB2.0_build.md)  
+[Schematics, pinout, Bill of Material, Technical drawing](boards/DB2.0)  
+[Build instructions](boards/DB2.0_build)  
 
 
 

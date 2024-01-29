@@ -38,7 +38,7 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
                       slug: '/DB2.3_overview',
                       // id: 'boards/DB2.2'
                   },
-                  collapsed: false,
+                  collapsed: true,
                   //collapsible: false,
                   items: [
                       'boards/DB2.3',
@@ -49,18 +49,21 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
               },
               {
                   type: 'category',
-                  label: 'Handheld scanner',
+                  label: 'Handheld Scanner',
                   link: {
                       type: 'generated-index',
                       title: 'Handheld Scanner', 
-                      description: 'To be added in the future!',
+                      description: 'First lasercut version in development!',
                       slug: '/HS_overview',
                       // id: 'boards/DB2.2'
                   },
-                  collapsed: true,
+                  collapsed: false,
                   //collapsible: false,
                   items: [
-                       'boards/HS',
+                       'boards/HS_laser',
+                       'boards/HS_laser_build',
+                       'boards/HS_laser_firmware',
+                       'boards/HS_laser_software',
                       // 'boards/HS_build',
                       // 'boards/HS_firmware',
                       // 'boards/HS_software'
