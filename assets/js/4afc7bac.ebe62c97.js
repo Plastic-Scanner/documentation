@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[843],{8298:e=>{e.exports=JSON.parse('{"title":"Overview","description":"Learn all about the documentation of the Plastic Scanner!","image":"/img/docusaurus.png","keywords":["guides"],"slug":"/","permalink":"/","navigation":{"next":{"title":"Introduction","permalink":"/introduction"}}}')}}]);
