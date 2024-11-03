@@ -57,8 +57,17 @@ Queena worked on the Characterisation of the LEDs and InGaAs detector of the han
 
 ---
 ## Thesis Kyle - December 2023
+<img src="/img/research/kyle.png" alt="" width="300"/>
 
-To be added
+Original file: [link](/files/Kyle-Jewiss-thesis.pdf)  
+This capstone project enhances the Plastic Scanner by addressing noise and accuracy issues, achieving over 92% accuracy in identifying polymer types with a portable, affordable device that could significantly benefit small to medium-scale recyclers.  
+
+---
+## Thesis Kyle - December 2023
+<img src="/img/research/fahimeh.png" alt="" width="300"/>
+
+Original file: [link](Fahimeh-Pourmohammadi-thesis.pdf)  
+This research compares the accuracy of three plastic detection devices—Plastic Scanner, SpectraPod, and NIR Spectrometer—finding that while the NIR Spectrometer achieved the highest accuracy, limitations in wavelength sensitivity and resolution hindered the performance of the Plastic Scanner and SpectraPod, highlighting the need for further refinement in affordable, handheld plastic sorting tools.  
 
 ---
 ## Data analysis Hendrik - April 2023 (ongoing)
