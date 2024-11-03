@@ -66,7 +66,7 @@ This capstone project enhances the Plastic Scanner by addressing noise and accur
 ## Thesis Kyle - December 2023
 <img src="/img/research/fahimeh.png" alt="" width="300"/>
 
-Original file: [link](Fahimeh-Pourmohammadi-thesis.pdf)  
+Original file: [link](/files/Fahimeh-Pourmohammadi-thesis.pdf)  
 This research compares the accuracy of three plastic detection devices—Plastic Scanner, SpectraPod, and NIR Spectrometer—finding that while the NIR Spectrometer achieved the highest accuracy, limitations in wavelength sensitivity and resolution hindered the performance of the Plastic Scanner and SpectraPod, highlighting the need for further refinement in affordable, handheld plastic sorting tools.  
 
 ---
